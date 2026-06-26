@@ -8,7 +8,7 @@ Full Stack Developer building:
 ## Projects
 
 🎵 LuluPlug  
-https://luluplug.com/
+https://www.luluplug.com/
 
 🤖 TalentSummary  
 https://github.com/UlysseLeb/TalentSummary
