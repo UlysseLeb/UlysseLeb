@@ -11,4 +11,4 @@ Full Stack Developer building:
 https://www.luluplug.com/
 
 🤖 TalentSummary  
-https://github.com/UlysseLeb/TalentSummary
+https://github.com/novasupply-inbox-ai
