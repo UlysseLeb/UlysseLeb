@@ -8,7 +8,9 @@ Full Stack Developer building:
 ## Projects
 
 🎵 LuluPlug  
+
 https://www.luluplug.com/
 
 🤖 NovaSupply Inbox AI
+
 https://github.com/novasupply-inbox-ai
