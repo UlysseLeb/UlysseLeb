@@ -2,13 +2,13 @@
 
 Full Stack Developer building:
 - AI tools
-- audio plugins
+- Automations
 - interactive web apps
+  
 
 ## Projects
 
 
-
+📊 CRM -> ERP: https://github.com/UlysseLeb/projet-iniwave
 🤖 NovaSupply Inbox AI: https://github.com/novasupply-inbox-ai
 
-🎵 LuluPlug: https://www.luluplug.com/
