@@ -13,5 +13,8 @@ Full Stack Developer building:
 
 🤖 NovaSupply Agent AI: https://github.com/novasupply-agent
 
+🤖 alder-ap-agent Agent: https://github.com/alder-ap-agent
+
+
 
 
