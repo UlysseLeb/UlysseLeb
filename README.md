@@ -11,9 +11,9 @@ Full Stack Developer building:
 
 📊 CRM -> ERP: https://github.com/UlysseLeb/projet-iniwave
 
-🤖 NovaSupply Agent AI: https://github.com/novasupply-agent
+🤖 NovaSupply Agent AI: https://github.com/UlysseLeb/novasupply-agent
 
-🤖 alder-ap-agent Agent: https://github.com/UlysseLeb/alder-ap-agent
+🤖 Alder AP Agent: https://github.com/UlysseLeb/alder-ap-agent
 
 
 
